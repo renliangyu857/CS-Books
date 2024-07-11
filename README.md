@@ -1,7 +1,8 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
 <p align="center">
     <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@4.0/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
-<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
+<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="[https://img.shields.io/badge/公众号-拓跋阿秀-green.svg](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BE%B0%E6%98%9F-green
+)" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
    <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
        <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
